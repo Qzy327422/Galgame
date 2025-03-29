@@ -1,0 +1,8 @@
+1. 安装Python
+   双击运行同目录下的 python-3.8.2rc2-amd64.exe
+
+2. 安装依赖库
+   双击执行 install.bat 自动完成配置
+
+3. 启动游戏
+   运行命令：python start.py
